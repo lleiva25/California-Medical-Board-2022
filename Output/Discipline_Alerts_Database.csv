@@ -1,0 +1,583 @@
+,COUNTY,CITY,County_FIP,Conviction,Month
+1,Los Angeles,Agoura Hills,06037,Accusation,03
+2,Los Angeles,Agoura Hills,06037,First Amended Accusation,08
+7,Orange,Aliso Viejo,06059,Decision,02
+18,Contra Costa,Antioch,06013,Interim Suspension Order,03
+19,Contra Costa,Antioch,06013,Surrendered,10
+20,San Bernardino,Apple Valley,06071,First Amended Accusation,03
+21,San Bernardino,Apple Valley,06071,Decision,10
+23,Los Angeles,Arcadia,06037,Public Letter of Reprimand,02
+24,Los Angeles,Arcadia,06037,Accusation,08
+27,Humboldt,Arcata,06023,Public Reprimand,05
+34,San Mateo,Atherton,06081,First Amended Accusation,03
+35,San Mateo,Atherton,06081,Revoked,08
+37,Placer,Auburn,06061,First Amended Accusation,03
+38,Placer,Auburn,06061,Accusation,07
+44,Kern,Bakersfield,06029,Public Reprimand,01
+45,Kern,Bakersfield,06029,Surrendered,06
+46,Kern,Bakersfield,06029,Decision,07
+47,Kern,Bakersfield,06029,Accusation,04
+48,Kern,Bakersfield,06029,Accusation,09
+49,Kern,Bakersfield,06029,Public Reprimand,09
+51,Riverside,Banning,06065,Accusation,05
+52,Riverside,Banning,06065,Decision,11
+53,San Bernardino,Barstow,06071,First Amended Accusation,05
+65,Alameda,Berkeley,06001,Surrendered,03
+66,Alameda,Berkeley,06001,First Amended Accusation,03
+67,Alameda,Berkeley,06001,Accusation,08
+68,Alameda,Berkeley,06001,Second Amended Accusation,08
+69,Alameda,Berkeley,06001,Public Letter of Reprimand,12
+70,Los Angeles,Beverly Hills,06037,First Amended Accusation,01
+71,Los Angeles,Beverly Hills,06037,Decision,01
+72,Los Angeles,Beverly Hills,06037,First Amended Accusation,01
+73,Los Angeles,Beverly Hills,06037,Surrendered,02
+74,Los Angeles,Beverly Hills,06037,Public Letter of Reprimand,03
+75,Los Angeles,Beverly Hills,06037,First Amended Accusation,02
+76,Los Angeles,Beverly Hills,06037,First Amended Accusation ,02
+77,Los Angeles,Beverly Hills,06037,Accusation,02
+78,Los Angeles,Beverly Hills,06037,Accusation,03
+79,Los Angeles,Beverly Hills,06037,Second Amended Accusation,03
+80,Los Angeles,Beverly Hills,06037,First Amended Accusation,04
+81,Los Angeles,Beverly Hills,06037,First Amended Accusation,08
+82,Los Angeles,Beverly Hills,06037,Decision,09
+83,Los Angeles,Beverly Hills,06037,Decision,10
+89,Riverside,Blythe,06065,Public Letter of Reprimand,01
+90,Riverside,Blythe,06065,First Amended Accusation,03
+91,Riverside,Blythe,06065,Surrendered,09
+92,Riverside,Blythe,06065,Accusation,09
+96,Orange,Brea,06059,First Amended Accusation,04
+101,Santa Barbara,Buellton,06083,Decision,01
+102,Santa Barbara,Buellton,06083,Cease Practice Order,03
+104,Los Angeles,Burbank,06037,Decision,03
+105,Los Angeles,Burbank,06037,First Amended Accusation,07
+106,San Mateo,Burlingame,06081,Accusation,01
+107,San Mateo,Burlingame,06081,Accusation,01
+108,San Mateo,Burlingame,06081,Public Reprimand,03
+109,San Mateo,Burlingame,06081,Accusation,02
+110,San Mateo,Burlingame,06081,Accusation,04
+111,San Mateo,Burlingame,06081,Accusation Dismissed,06
+113,Los Angeles,Calabasas,06037,Public Letter of Reprimand,12
+122,Ventura,Camarillo,06111,First Amended Accusation,03
+123,Ventura,Camarillo,06111,Accusation Withdrawn,06
+138,Los Angeles,Carson,06037,Surrendered,03
+142,Los Angeles,Cerritos,06037,Revoked,01
+149,Butte,Chico,06007,Decision,02
+150,Butte,Chico,06007,Decision,03
+151,Butte,Chico,06007,Surrendered,04
+152,Butte,Chico,06007,Accusation,08
+154,San Bernardino,Chino Hills,06071,Decision,03
+155,San Bernardino,Chino Hills,06071,Accusation,02
+157,San Diego,Chula Vista,06073,Surrendered,01
+158,San Diego,Chula Vista,06073,Public Reprimand,02
+159,San Diego,Chula Vista,06073,Cease Practice Order,02
+160,San Diego,Chula Vista,06073,Decision,04
+161,San Diego,Chula Vista,06073,Decision,06
+162,San Diego,Chula Vista,06073,Accusation,04
+163,San Diego,Chula Vista,06073,Decision,08
+164,San Diego,Chula Vista,06073,Petition to Revoke Probation,08
+165,San Diego,Chula Vista,06073,Surrendered,12
+169,Sacramento,Citrus Heights,06067,Public Reprimand,02
+170,Sacramento,Citrus Heights,06067,Public Reprimand,03
+171,Los Angeles,Claremont,06037,Public Letter of Reprimand,04
+175,Fresno,Clovis,06019,Decision,08
+176,Fresno,Clovis,06019,Accusation,06
+177,Fresno,Clovis,06019,Accusation Dismissed,06
+178,Fresno,Clovis,06019,Decision,10
+179,Fresno,Clovis,06019,Cease Practice Order,12
+190,Contra Costa,Concord,06013,Decision,11
+192,Tehama,Corning,06103,First Amended Accusation,01
+193,Tehama,Corning,06103,Decision,06
+194,Tehama,Corning,06103,Surrendered,10
+195,Riverside,Corona,06065,Second Amended Accusation and Petition to Revoke Probation,01
+196,Riverside,Corona,06065,Decision,04
+197,Riverside,Corona,06065,Surrendered,06
+198,Riverside,Corona,06065,First Amended Accusation ,07
+204,Orange,Costa Mesa,06059,First Amended Accusation,01
+205,Orange,Costa Mesa,06059,Decision,03
+207,Los Angeles,Covina,06037,Public Reprimand,01
+208,Los Angeles,Covina,06037,Surrendered,05
+209,Los Angeles,Covina,06037,Accusation,06
+210,Del Norte,Crescent City,06015,Suspension Order,04
+211,Del Norte,Crescent City,06015,Accusation,03
+212,Del Norte,Crescent City,06015,Petition to Revoke Probation,04
+213,Del Norte,Crescent City,06015,Revoked,12
+219,Santa Clara,Cupertino,06085,Surrendered,05
+222,San Mateo,Daly City,06081,Public Letter of Reprimand,02
+223,San Mateo,Daly City,06081,Decision,03
+224,San Mateo,Daly City,06081,Cease Practice Order,12
+225,Orange,Dana Point,06059,First Amended Accusation,02
+226,Orange,Dana Point,06059,Decision,10
+227,Contra Costa,Danville,06013,Public Reprimand,03
+228,Contra Costa,Danville,06013,Public Reprimand,06
+229,Contra Costa,Danville,06013,Public Letter of Reprimand,07
+230,Contra Costa,Danville,06013,First Amended Accusation,08
+234,San Diego,Del Mar,06073,Surrendered,02
+235,San Diego,Del Mar,06073,First Amended Accusation,02
+236,San Diego,Del Mar,06073,Revoked,09
+238,Kern,Delano,06029,First Amended Accusation,05
+239,Kern,Delano,06029,Decision,10
+242,Los Angeles,Diamond Bar,06037,Accusation,06
+249,Alameda,Dublin,06001,Accusation,06
+254,San Diego,El Cajon,06073,First Amended Accusation ,02
+255,San Diego,El Cajon,06073,Decision,07
+256,San Diego,El Cajon,06073,Accusation,09
+257,San Diego,El Cajon,06073,Cease Practice Order,09
+258,San Diego,El Cajon,06073,Cease Practice Order,12
+259,Imperial,El Centro,06025,Decision,01
+263,Contra Costa,El Cerrito,06013,First Amended Accusation,01
+264,Contra Costa,El Cerrito,06013,Decision,05
+269,Los Angeles,El Segundo,06037,Public Letter of Reprimand,07
+271,Sacramento,Elk Grove,06067,Public Reprimand,03
+272,Sacramento,Elk Grove,06067,Public Reprimand,11
+273,Sacramento,Elk Grove,06067,Surrendered,12
+275,San Diego,Encinitas,06073,Surrendered,04
+276,San Diego,Encinitas,06073,Public Letter of Reprimand,06
+284,San Diego,Escondido,06073,Decision,10
+286,Humboldt,Eureka,06023,Surrendered,10
+299,San Bernardino,Fontana,06071,Accusation,03
+300,Mendocino,Fort Bragg,06045,Public Reprimand,01
+304,Humboldt,Fortuna,06023,Petition to Revoke Probation ,06
+305,Humboldt,Fortuna,06023,Revoked,10
+307,Orange,Fountain Valley,06059,Accusation,01
+308,Orange,Fountain Valley,06059,First Amended Accusation,01
+309,Orange,Fountain Valley,06059,Decision,06
+310,Orange,Fountain Valley,06059,Accusation,08
+314,Alameda,Fremont,06001,Decision,01
+315,Fresno,Fresno,06019,Accusation and Petition to Revoke Probation,01
+316,Fresno,Fresno,06019,Revoked,01
+317,Fresno,Fresno,06019,Surrendered,02
+318,Fresno,Fresno,06019,Decision,03
+319,Fresno,Fresno,06019,First Amended Accusation,02
+320,Fresno,Fresno,06019,Second Amended Accusation,03
+321,Fresno,Fresno,06019,Accusation,03
+322,Fresno,Fresno,06019,Decision,05
+323,Fresno,Fresno,06019,Surrendered,06
+324,Fresno,Fresno,06019,Accusation,04
+325,Fresno,Fresno,06019,First Amended Accusation and Petition to Revoke Probation,04
+326,Fresno,Fresno,06019,First Amended Accusation,04
+327,Fresno,Fresno,06019,Public Reprimand,09
+328,Fresno,Fresno,06019,Decision,09
+329,Fresno,Fresno,06019,Surrendered,11
+330,Fresno,Fresno,06019,Cease Practice Order,12
+338,Los Angeles,Glendale,06037,Decision,03
+339,Los Angeles,Glendale,06037,Second Amended Accusation,02
+340,Los Angeles,Glendale,06037,Public Reprimand,04
+341,Los Angeles,Glendora,06037,Accusation,08
+342,Santa Barbara,Goleta,06083,Decision,04
+345,Nevada,Grass Valley,06057,Surrendered,01
+356,Alameda,Hayward,06001,Public Letter of Reprimand,04
+358,Riverside,Hemet,06065,Decision,01
+359,Riverside,Hemet,06065,First Amended Accusation,03
+364,San Bernardino,Highland,06071,Interim Suspension Order,10
+374,Orange,Huntington Beach,06059,Revoked,08
+375,Orange,Huntington Beach,06059,First Amended Accusation and Petition to Revoke Probation,09
+376,Orange,Huntington Beach,06059,Decision,11
+377,Los Angeles,Huntington Park,06037,First Amended Accusation,03
+381,Riverside,Indian Wells,06065,Accusation,09
+382,Riverside,Indio,06065,Surrendered,02
+384,Los Angeles,Inglewood,06037,Decision,03
+385,Los Angeles,Inglewood,06037,Revoked,10
+406,Orange,La Habra,06059,Accusation,07
+415,San Diego,La Mesa,06073,Decision,03
+416,Los Angeles,La Mirada,06037,Decision,04
+417,Los Angeles,La Mirada,06037,Accusation,05
+418,Orange,La Palma,06059,Accusation,06
+419,Orange,La Palma,06059,First Amended Accusation,09
+425,Contra Costa,Lafayette,06013,Interim Suspension Order,11
+426,Orange,Laguna Beach,06059,First Amended Accusation ,02
+427,Orange,Laguna Beach,06059,Accuastion,06
+428,Orange,Laguna Beach,06059,Decision,10
+429,Orange,Laguna Hills,06059,First Amended Accusation ,02
+430,Orange,Laguna Hills,06059,Public Reprimand,09
+432,Orange,Laguna Niguel,06059,First Amended Accusation,02
+433,Orange,Laguna Woods,06059,Decision,05
+435,Orange,Lake Forest,06059,Surrendered,06
+436,Orange,Lake Forest,06059,Public Reprimand,10
+441,Lake,Lakeport,06033,Accusation,01
+442,Lake,Lakeport,06033,Surrendered,06
+444,Los Angeles,Lancaster,06037,Surrendered,03
+445,Los Angeles,Lancaster,06037,Surrendered,08
+446,Los Angeles,Lancaster,06037,Accusation,06
+447,Marin,Larkspur,06041,Accusation,01
+448,Marin,Larkspur,06041,First Amended Accusation,09
+452,San Diego,Lemon Grove,06073,First Amended Accusation,02
+453,San Diego,Lemon Grove,06073,Decision,10
+457,Tulare,Lindsay,06107,Public Letter of Reprimand,10
+460,Sutter,Live Oak,06101,Decision,03
+463,San Joaquin,Lodi,06077,Automatic Suspension Order,09
+464,San Bernardino,Loma Linda,06071,First Amended Accusation,03
+465,San Bernardino,Loma Linda,06071,Decision,06
+466,San Bernardino,Loma Linda,06071,Surrendered,09
+469,Los Angeles,Long Beach,06037,Decision,04
+470,Los Angeles,Long Beach,06037,Decision,08
+473,Orange,Los Alamitos,06059,First Amended Accusation,07
+474,Santa Clara,Los Altos,06085,Public Reprimand,01
+476,Los Angeles,Los Angeles,06037,Decision,01
+477,Los Angeles,Los Angeles,06037,Surrendered,01
+478,Los Angeles,Los Angeles,06037,Surrendered,01
+479,Los Angeles,Los Angeles,06037,First Amended Accusation,01
+480,Los Angeles,Los Angeles,06037,Public Letter of Reprimand,02
+481,Los Angeles,Los Angeles,06037,Accusation,01
+482,Los Angeles,Los Angeles,06037,Suspension Order,04
+483,Los Angeles,Los Angeles,06037,Surrendered,05
+484,Los Angeles,Los Angeles,06037,First Amended Accusation,02
+485,Los Angeles,Los Angeles,06037,Second Amended Accusation,02
+486,Los Angeles,Los Angeles,06037,First Amended Accusation,03
+487,Los Angeles,Los Angeles,06037,Decision,06
+488,Los Angeles,Los Angeles,06037,Surrendered,08
+489,Los Angeles,Los Angeles,06037,Accusation,04
+490,Los Angeles,Los Angeles,06037,First Amended Accusation,05
+491,Los Angeles,Los Angeles,06037,Accusation,05
+492,Los Angeles,Los Angeles,06037,Accusation,05
+493,Los Angeles,Los Angeles,06037,Accusation ,06
+494,Los Angeles,Los Angeles,06037,Accusation,06
+495,Los Angeles,Los Angeles,06037,Surrendered,09
+496,Los Angeles,Los Angeles,06037,Surrendered,09
+497,Los Angeles,Los Angeles,06037,Accusation,07
+498,Los Angeles,Los Angeles,06037,Accusation,08
+499,Los Angeles,Los Angeles,06037,Accusation,08
+500,Los Angeles,Los Angeles,06037,Accusation,08
+501,Los Angeles,Los Angeles,06037,Accusation Dismissed,08
+502,Los Angeles,Los Angeles,06037,First Amended Accusation,09
+503,Los Angeles,Los Angeles,06037,Accusation,09
+504,Los Angeles,Los Angeles,06037,Automatic Suspension Order,08
+505,Los Angeles,Los Angeles,06037,Public Reprimand,09
+506,Los Angeles,Los Angeles,06037,Decision,09
+507,Los Angeles,Los Angeles,06037,Public Reprimand,09
+508,Los Angeles,Los Angeles,06037,Decision,09
+509,Los Angeles,Los Angeles,06037,Revoked,10
+510,Los Angeles,Los Angeles,06037,Decision,11
+511,Los Angeles,Los Angeles,06037,Surrendered,12
+513,Santa Clara,Los Gatos,06085,Decision,01
+514,Santa Clara,Los Gatos,06085,Accusation,01
+515,Santa Clara,Los Gatos,06085,First Amended Accusation,03
+516,Santa Clara,Los Gatos,06085,Accusation,03
+517,Santa Clara,Los Gatos,06085,First Amended Accusation,05
+518,Santa Clara,Los Gatos,06085,Accusation,09
+519,Santa Clara,Los Gatos,06085,Decision,10
+526,Los Angeles,Malibu,06037,Decision,02
+527,Los Angeles,Malibu,06037,First Amended Accusation,03
+528,Los Angeles,Malibu,06037,Decision,09
+530,Los Angeles,Manhattan Beach,06037,Revoked,04
+531,Los Angeles,Manhattan Beach,06037,Surrendered,09
+532,Los Angeles,Manhattan Beach,06037,Surrendered,10
+533,San Joaquin,Manteca,06077,Decision,09
+542,Kern,McFarland,06029,First Amended Accusation,01
+547,Merced,Merced,06047,First Amended Accusation,03
+548,Marin,Mill Valley,06041,Decision,02
+550,Santa Clara,Milpitas,06085,Accusation,04
+551,Santa Clara,Milpitas,06085,Accusation,06
+552,Santa Clara,Milpitas,06085,Surrendered,10
+554,Orange,Mission Viejo,06059,Accusation,03
+555,Orange,Mission Viejo,06059,First Amended Accusation ,06
+557,Stanislaus,Modesto,06099,Decision,02
+558,Stanislaus,Modesto,06099,Decision,04
+559,Stanislaus,Modesto,06099,First Amended Accusation,03
+560,Stanislaus,Modesto,06099,Accusation ,04
+561,Stanislaus,Modesto,06099,First Amednded Accusation,07
+562,Stanislaus,Modesto,06099,Second Amended Accusation,08
+565,San Bernardino,Montclair,06071,Accusation,06
+566,San Bernardino,Montclair,06071,Accusation,09
+568,Los Angeles,Montebello,06037,Public Reprimand,07
+569,Monterey,Monterey,06053,First Amended Accusation,03
+570,Monterey,Monterey,06053,Accusation,03
+571,Monterey,Monterey,06053,Accusation ,07
+575,Riverside,Moreno Valley,06065,Surrendered,04
+576,Riverside,Moreno Valley,06065,Accusation,06
+581,Santa Clara,Mountain View,06085,Public Reprimand,01
+582,Santa Clara,Mountain View,06085,Surrendered,08
+583,Santa Clara,Mountain View,06085,First Amended Accusation Dismissed,05
+584,Santa Clara,Mountain View,06085,Accusation,07
+585,Riverside,Murrieta,06065,Decision,05
+586,Riverside,Murrieta,06065,First Amended Accusation,06
+587,Riverside,Murrieta,06065,Accusation,08
+592,San Bernardino,Needles,06071,Accusation Dismissed,07
+593,Nevada,Nevada City,06057,Accusation,08
+594,Nevada,Nevada City,06057,Accusation,09
+601,Orange,Newport Beach,06059,Accusation Dismissed,01
+602,Orange,Newport Beach,06059,First Amended Accusation,01
+603,Orange,Newport Beach,06059,Decision,03
+604,Orange,Newport Beach,06059,Decision,03
+605,Orange,Newport Beach,06059,First Amended Accusation,02
+606,Orange,Newport Beach,06059,First Amended Accusation,02
+607,Orange,Newport Beach,06059,Third Amended Accusation,03
+608,Orange,Newport Beach,06059,Accusation Dismissed,03
+609,Orange,Newport Beach,06059,Accusation,05
+610,Orange,Newport Beach,06059,Decision,09
+611,Orange,Newport Beach,06059,Decision,09
+612,Orange,Newport Beach,06059,Accusation,09
+621,Marin,Novato,06041,First Amended Accusation,03
+622,Marin,Novato,06041,Second Amended Accusation,07
+624,Alameda,Oakland,06001,Decision,01
+625,Alameda,Oakland,06001,Accusation,01
+626,Alameda,Oakland,06001,Accusation,03
+627,Alameda,Oakland,06001,Accusation,04
+630,San Diego,Oceanside,06073,First Amended Accusation ,02
+631,San Diego,Oceanside,06073,Decision,09
+632,Ventura,Ojai,06111,First Amended Accusation,03
+633,Ventura,Ojai,06111,Decision,09
+637,Orange,Orange,06059,First Amended Accusation,02
+638,Orange,Orange,06059,First Amended Accusation,04
+639,Orange,Orange,06059,Accusation,04
+640,Orange,Orange,06059,Accusation,07
+641,Orange,Orange,06059,Accusation,09
+642,Orange,Orange,06059,Revoked,09
+651,Riverside,Palm Desert,06065,Accusation and Petition to Revoke Probation,03
+653,Riverside,Palm Springs,06065,Accusation,01
+655,Santa Clara,Palo Alto,06085,Revoked,05
+656,Santa Clara,Palo Alto,06085,First Amended Accusation,09
+663,Los Angeles,Pasadena,06037,Public Reprimand,01
+664,Los Angeles,Pasadena,06037,First Amended Accusation,01
+665,Los Angeles,Pasadena,06037,Revoked,05
+666,Los Angeles,Pasadena,06037,Accusation,02
+667,Los Angeles,Pasadena,06037,Accusation Withdrawn,03
+668,Los Angeles,Pasadena,06037,Decision,07
+669,Los Angeles,Pasadena,06037,Third Amended Accusation and Request for Civil Penalty,07
+670,Los Angeles,Pasadena,06037,Accusation,08
+671,Los Angeles,Pasadena,06037,Decision,12
+677,Sonoma,Petaluma,06097,First Amended Accusation ,02
+678,Sonoma,Petaluma,06097,Second Amended Accusation,04
+680,Los Angeles,Pico Rivera,06037,Public Letter of Reprimand,02
+687,Orange,Placentia,06059,Decision,01
+689,Contra Costa,Pleasant Hill,06013,Decision,02
+690,Alameda,Pleasanton,06001,Accusation,06
+696,Los Angeles,Pomona,06037,Decision,04
+697,Los Angeles,Pomona,06037,Decision,09
+701,Tulare,Porterville,06107,Accusation,04
+702,Tulare,Porterville,06107,Accusation,07
+703,Tulare,Porterville,06107,Public Reprimand,09
+709,San Diego,Poway,06073,Accusation,06
+711,San Bernardino,Rancho Cucamonga,06071,Second Amended Accusation,08
+712,Riverside,Rancho Mirage,06065,Decision,05
+713,Riverside,Rancho Mirage,06065,Decision,09
+717,Shasta,Redding,06089,First Amended Accusation,02
+718,Shasta,Redding,06089,First Amended Accusation,03
+719,Shasta,Redding,06089,Public Reprimand,06
+720,Shasta,Redding,06089,Decision,08
+721,Shasta,Redding,06089,Accusation,06
+722,Shasta,Redding,06089,Revoked,10
+723,San Bernardino,Redlands,06071,First Amended Accusation,01
+724,San Bernardino,Redlands,06071,Surrendered,03
+725,San Bernardino,Redlands,06071,Decision,04
+726,San Bernardino,Redlands,06071,First Amended Accusation ,02
+727,Los Angeles,Redondo Beach,06037,Surrendered,01
+728,Los Angeles,Redondo Beach,06037,Decision,03
+729,San Mateo,Redwood City,06081,First Amended Accusation,01
+730,San Mateo,Redwood City,06081,Decision,07
+731,San Mateo,Redwood City,06081,Accusation ,06
+744,Riverside,Riverside,06065,First Amended Accusation,01
+745,Riverside,Riverside,06065,Public Letter of Reprimand,02
+746,Riverside,Riverside,06065,Accusation,08
+747,Riverside,Riverside,06065,Revoked,10
+748,Riverside,Riverside,06065,Surrendered,10
+750,Placer,Rocklin,06061,Decision,09
+752,Los Angeles,Rolling Hills,06037,First Amended Accusation,05
+755,Placer,Roseville,06061,Surrendered,03
+756,Placer,Roseville,06061,Accusation,03
+757,Placer,Roseville,06061,Accusation,05
+759,Sacramento,Sacramento,06067,Public Reprimand,03
+760,Sacramento,Sacramento,06067,Decision,03
+761,Sacramento,Sacramento,06067,Decision,03
+762,Sacramento,Sacramento,06067,Public Letter of Reprimand,06
+763,Sacramento,Sacramento,06067,Public Letter of Reprimand,07
+764,Sacramento,Sacramento,06067,Accusation,06
+765,Sacramento,Sacramento,06067,First Amended Accusation,07
+766,Sacramento,Sacramento,06067,Accusation,08
+767,Sacramento,Sacramento,06067,Accusation,08
+768,Sacramento,Sacramento,06067,Accusation,08
+769,Sacramento,Sacramento,06067,Public Letter of Reprimand,12
+772,Monterey,Salinas,06053,Decision,01
+773,Monterey,Salinas,06053,Surrendered,08
+774,Monterey,Salinas,06053,Accusation,04
+777,San Bernardino,San Bernardino,06071,First Amended Accusation,01
+778,San Bernardino,San Bernardino,06071,First Amended Accusation,01
+779,San Bernardino,San Bernardino,06071,First Amended Accusation,03
+780,San Bernardino,San Bernardino,06071,Surrendered,06
+781,San Bernardino,San Bernardino,06071,Public Reprimand,08
+782,San Bernardino,San Bernardino,06071,First Amended Accusation and Petition to Revoke Probation,09
+783,San Bernardino,San Bernardino,06071,Public Reprimand,10
+787,San Diego,San Diego,06073,Decision,01
+788,San Diego,San Diego,06073,Decision,01
+789,San Diego,San Diego,06073,Decision,01
+790,San Diego,San Diego,06073,Decision,02
+791,San Diego,San Diego,06073,Public Reprimand,02
+792,San Diego,San Diego,06073,Decision,02
+793,San Diego,San Diego,06073,Decision,03
+794,San Diego,San Diego,06073,Decision,04
+795,San Diego,San Diego,06073,Accusation,02
+796,San Diego,San Diego,06073,Second Amended Accusation,02
+797,San Diego,San Diego,06073,Accusation,02
+798,San Diego,San Diego,06073,Cease Practice Order,04
+799,San Diego,San Diego,06073,Decision,04
+800,San Diego,San Diego,06073,First Amended Accusation,03
+801,San Diego,San Diego,06073,Accusation,03
+802,San Diego,San Diego,06073,First Amended Accusation,03
+803,San Diego,San Diego,06073,Accusation,03
+804,San Diego,San Diego,06073,Accusation,03
+805,San Diego,San Diego,06073,First Amended Accusation,03
+806,San Diego,San Diego,06073,Public Reprimand,07
+807,San Diego,San Diego,06073,Decision,08
+808,San Diego,San Diego,06073,Third Amended Accusation,05
+809,San Diego,San Diego,06073,Surrendered,08
+810,San Diego,San Diego,06073,Accusation,07
+811,San Diego,San Diego,06073,Accusation,08
+812,San Diego,San Diego,06073,Accusation,09
+813,San Diego,San Diego,06073,Accusation,09
+814,San Diego,San Diego,06073,Accusation Dismissed,09
+815,San Diego,San Diego,06073,Public Reprimand,10
+816,San Diego,San Diego,06073,Public Reprimand,10
+817,San Diego,San Diego,06073,Revoked,10
+818,San Diego,San Diego,06073,Decision,10
+819,San Diego,San Diego,06073,Decision,10
+820,San Diego,San Diego,06073,Decision,11
+823,San Francisco,San Francisco,06075,Accusation,01
+824,San Francisco,San Francisco,06075,Surrendered,01
+825,San Francisco,San Francisco,06075,Public Letter of Reprimand,02
+826,San Francisco,San Francisco,06075,First Amended Accusation,01
+827,San Francisco,San Francisco,06075,Surrendered,03
+828,San Francisco,San Francisco,06075,Public Reprimand,04
+829,San Francisco,San Francisco,06075,Surrendered,04
+830,San Francisco,San Francisco,06075,First Amended Accusation,03
+831,San Francisco,San Francisco,06075,Accusation,03
+832,San Francisco,San Francisco,06075,First Amended Accusation,03
+833,San Francisco,San Francisco,06075,Decision,08
+834,San Francisco,San Francisco,06075,Public Reprimand,08
+835,San Francisco,San Francisco,06075,First Amended Accusation,04
+836,San Francisco,San Francisco,06075,Accusation,05
+837,San Francisco,San Francisco,06075,Accusation,05
+838,San Francisco,San Francisco,06075,Accusation,05
+839,San Francisco,San Francisco,06075,Accusation Withdrawn,05
+840,San Francisco,San Francisco,06075,Petition to Revoke Probation ,06
+841,San Francisco,San Francisco,06075,Accusation,06
+842,San Francisco,San Francisco,06075,Accusation,06
+843,San Francisco,San Francisco,06075,Decision,09
+844,San Francisco,San Francisco,06075,Accusation,08
+845,San Francisco,San Francisco,06075,Accusation,08
+846,San Francisco,San Francisco,06075,Accusation,08
+847,San Francisco,San Francisco,06075,Accusation,09
+848,San Francisco,San Francisco,06075,Decision,10
+849,San Francisco,San Francisco,06075,Cease Practice Order,11
+853,Santa Clara,San Jose,06085,Interim Suspension Order,02
+854,Santa Clara,San Jose,06085,Accusation,03
+855,Santa Clara,San Jose,06085,Decision,07
+856,Santa Clara,San Jose,06085,Accusation,09
+857,Santa Clara,San Jose,06085,Interim Suspension Order,11
+859,Orange,San Juan Capistrano,06059,Suspension Order,05
+860,Alameda,San Leandro,06001,Surrendered,02
+861,Alameda,San Leandro,06001,Decision,03
+862,Alameda,San Leandro,06001,Public Reprimand,05
+863,San Luis Obispo,San Luis Obispo,06079,Accusation,05
+864,San Luis Obispo,San Luis Obispo,06079,Second Amended Accusation,09
+865,San Diego,San Marcos,06073,First Amended Accusation,01
+866,San Diego,San Marcos,06073,First Amended Accusation ,02
+867,San Diego,San Marcos,06073,Second Amended Accusation,03
+868,San Diego,San Marcos,06073,Public Reprimand,09
+869,San Diego,San Marcos,06073,Second Amended Accusation,09
+870,Los Angeles,San Marino,06037,Surrendered,01
+871,Los Angeles,San Marino,06037,First Amended Accusation,03
+872,San Mateo,San Mateo,06081,Accusation,02
+877,Marin,San Rafael,06041,Accusation Dismissed,09
+880,Fresno,Sanger,06019,Accusation Withdrawn,06
+881,Orange,Santa Ana,06059,Decision,04
+882,Orange,Santa Ana,06059,Surrendered,06
+883,Orange,Santa Ana,06059,Cease Practice Order,09
+884,Orange,Santa Ana,06059,Accusation,06
+885,Orange,Santa Ana,06059,Decision,09
+886,Orange,Santa Ana,06059,Decision,09
+887,Santa Barbara,Santa Barbara,06083,Decision,01
+888,Santa Barbara,Santa Barbara,06083,Decision,02
+889,Santa Barbara,Santa Barbara,06083,Accusation,03
+890,Santa Barbara,Santa Barbara,06083,Surrendered,08
+891,Santa Barbara,Santa Barbara,06083,First Amended Accusation,08
+892,Santa Barbara,Santa Barbara,06083,Accusation,08
+893,Santa Barbara,Santa Barbara,06083,Accusation,09
+894,Santa Clara,Santa Clara,06085,Decision,07
+895,Los Angeles,Santa Clarita,06037,Public Letter of Reprimand,10
+896,Santa Cruz,Santa Cruz,06087,Petition to Revoke Probation,02
+897,Santa Cruz,Santa Cruz,06087,Public Letter of Reprimand,06
+898,Santa Cruz,Santa Cruz,06087,First Amended Accusation,04
+899,Santa Cruz,Santa Cruz,06087,Revoked,10
+900,Santa Cruz,Santa Cruz,06087,Public Reprimand,12
+902,Santa Barbara,Santa Maria,06083,Public Reprimand,02
+903,Santa Barbara,Santa Maria,06083,Accusation,08
+904,Los Angeles,Santa Monica,06037,First Amended Accusation,01
+905,Los Angeles,Santa Monica,06037,Decision,08
+906,Los Angeles,Santa Monica,06037,Accusation,07
+907,Los Angeles,Santa Monica,06037,First Amended Accusation,08
+908,Los Angeles,Santa Monica,06037,Decision,09
+909,Ventura,Santa Paula,06111,Interim Suspension Order,09
+910,Sonoma,Santa Rosa,06097,Decision,01
+911,Sonoma,Santa Rosa,06097,Surrendered,02
+912,Sonoma,Santa Rosa,06097,Cease Practice Order,04
+913,Sonoma,Santa Rosa,06097,Revoked,06
+914,Sonoma,Santa Rosa,06097,Decision,09
+915,Sonoma,Santa Rosa,06097,Accusation,07
+916,Sonoma,Santa Rosa,06097,Third Amended Accusation,09
+917,Sonoma,Santa Rosa,06097,Automatic Suspension Order,09
+918,Sonoma,Santa Rosa,06097,Public Reprimand,10
+919,Sonoma,Santa Rosa,06097,Public Letter of Reprimand,12
+921,San Diego,Santee,06073,First Amended Accusation,01
+922,San Diego,Santee,06073,Surrendered,08
+924,Marin,Sausalito,06041,Second Amended Accusation,01
+929,Orange,Seal Beach,06059,Automatic Suspension Order,06
+930,Orange,Seal Beach,06059,Accusation,08
+945,San Diego,Solana Beach,06073,Accusation,03
+946,San Diego,Solana Beach,06073,Accusation,04
+949,Sonoma,Sonoma,06097,Decision,01
+950,Sonoma,Sonoma,06097,Surrendered,05
+951,Tuolumne,Sonora,06109,First Amended Accusation,03
+952,Tuolumne,Sonora,06109,Decision,06
+956,El Dorado,South Lake Tahoe,06017,Accusation,08
+957,Los Angeles,South Pasadena,06037,Surrendered,03
+958,Los Angeles,South Pasadena,06037,Decision,04
+964,San Joaquin,Stockton,06077,Decision,02
+965,San Joaquin,Stockton,06077,Accusation Petition to Revoke Probation,08
+966,San Joaquin,Stockton,06077,Cease Practice Order,11
+970,Lassen,Susanville,06035,Interim Suspension Order,01
+971,Lassen,Susanville,06035,Petition to Revoke Probation,07
+972,Amador,Sutter Creek,06005,Public Letter of Reprimand,01
+973,Amador,Sutter Creek,06005,Accusation Withdrawn,01
+982,Riverside,Temecula,06065,Surrendered,02
+983,Riverside,Temecula,06065,Accusation,01
+984,Riverside,Temecula,06065,Surrendered,03
+985,Riverside,Temecula,06065,Surrendered,06
+986,Riverside,Temecula,06065,First Amended Accusation ,06
+987,Riverside,Temecula,06065,Decision,10
+990,Ventura,Thousand Oaks,06111,First Amended Accusation,03
+991,Ventura,Thousand Oaks,06111,First Amended Accusation,08
+992,Ventura,Thousand Oaks,06111,Public Reprimand,09
+993,Ventura,Thousand Oaks,06111,Public Reprimand,10
+997,Los Angeles,Torrance,06037,Accusation,01
+998,Los Angeles,Torrance,06037,Accusation,02
+999,Los Angeles,Torrance,06037,Accusation,03
+1000,Los Angeles,Torrance,06037,Surrendered,08
+1001,Los Angeles,Torrance,06037,First Amended Accusation,06
+1002,San Joaquin,Tracy,06077,Decision,04
+1003,San Joaquin,Tracy,06077,First Amended Accusation,04
+1004,San Joaquin,Tracy,06077,Decision,10
+1010,Stanislaus,Turlock,06099,Surrendered,04
+1011,Stanislaus,Turlock,06099,First Amended Accusation,03
+1012,Stanislaus,Turlock,06099,First Amended Accusation,07
+1018,Solano,Vacaville,06095,Decision,01
+1019,Solano,Vacaville,06095,Accusation,01
+1020,Solano,Vacaville,06095,Accusation,09
+1021,Solano,Vacaville,06095,Decision,11
+1025,Solano,Vallejo,06095,Accusation,03
+1030,San Bernardino,Victorville,06071,Decision,03
+1031,San Bernardino,Victorville,06071,Accusation,03
+1032,San Bernardino,Victorville,06071,Revoked,06
+1034,Tulare,Visalia,06107,First Amended Accusation,01
+1035,Tulare,Visalia,06107,Decision,05
+1036,San Diego,Vista,06073,First Amended Accusation,03
+1037,San Diego,Vista,06073,Decision,10
+1045,Los Angeles,West Covina,06037,Second Amended Accusation  ,01
+1046,Los Angeles,West Covina,06037,Third Amended Accusation,03
+1047,Los Angeles,West Covina,06037,Accusation Withdrawn,05
+1051,Los Angeles,West Hollywood,06037,Public Letter of Reprimand,04
+1053,Los Angeles,Westlake Village,06037,Accusation,04
+1054,Los Angeles,Westlake Village,06037,Second Amended Accusation,05
+1060,Los Angeles,Whittier,06037,Accusation,01
+1064,Mendocino,Willits,06045,Accusation,04
+1076,San Mateo,Woodside,06081,Accusation,08
+1083,San Bernardino,Yucaipa,06071,Public Letter of Reprimand,07
+1084,San Bernardino,Yucca Valley,06071,Accusation,06
