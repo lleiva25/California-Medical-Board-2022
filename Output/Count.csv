@@ -1,214 +1,659 @@
-,Month,Date,No. Cases
-0,01,2022-01-01,1
-1,01,2022-01-03,2
-2,01,2022-01-04,1
-3,01,2022-01-05,1
-4,01,2022-01-06,6
-5,01,2022-01-07,5
-6,01,2022-01-08,1
-7,01,2022-01-10,2
-8,01,2022-01-12,2
-9,01,2022-01-13,3
-10,01,2022-01-14,5
-11,01,2022-01-19,1
-12,01,2022-01-20,2
-13,01,2022-01-21,3
-14,01,2022-01-25,4
-15,01,2022-01-27,2
-16,01,2022-01-28,4
-17,01,2022-01-31,3
-18,02,2022-02-01,5
-19,02,2022-02-02,3
-20,02,2022-02-03,2
-21,02,2022-02-04,4
-22,02,2022-02-05,1
-23,02,2022-02-07,1
-24,02,2022-02-08,1
-25,02,2022-02-10,1
-26,02,2022-02-11,5
-27,02,2022-02-13,1
-28,02,2022-02-15,2
-29,02,2022-02-17,2
-30,02,2022-02-18,2
-31,02,2022-02-22,2
-32,02,2022-02-23,1
-33,02,2022-02-24,6
-34,02,2022-02-25,6
-35,02,2022-02-28,2
-36,03,2022-03-02,4
-37,03,2022-03-03,2
-38,03,2022-03-04,4
-39,03,2022-03-09,1
-40,03,2022-03-10,3
-41,03,2022-03-11,4
-42,03,2022-03-13,1
-43,03,2022-03-14,1
-44,03,2022-03-15,3
-45,03,2022-03-16,2
-46,03,2022-03-17,1
-47,03,2022-03-18,5
-48,03,2022-03-20,1
-49,03,2022-03-22,1
-50,03,2022-03-24,5
-51,03,2022-03-25,5
-52,03,2022-03-28,1
-53,03,2022-03-29,1
-54,03,2022-03-30,3
-55,04,2022-04-01,4
-56,04,2022-04-02,1
-57,04,2022-04-03,1
-58,04,2022-04-04,3
-59,04,2022-04-05,2
-60,04,2022-04-06,6
-61,04,2022-04-07,1
-62,04,2022-04-08,4
-63,04,2022-04-09,1
-64,04,2022-04-11,2
-65,04,2022-04-12,1
-66,04,2022-04-13,1
-67,04,2022-04-14,5
-68,04,2022-04-15,3
-69,04,2022-04-19,2
-70,04,2022-04-20,1
-71,04,2022-04-21,2
-72,04,2022-04-22,5
-73,04,2022-04-25,3
-74,04,2022-04-28,2
-75,04,2022-04-29,1
-76,04,2022-04-30,1
-77,05,2022-05-01,1
-78,05,2022-05-02,1
-79,05,2022-05-04,1
-80,05,2022-05-05,1
-81,05,2022-05-06,1
-82,05,2022-05-11,2
-83,05,2022-05-12,4
-84,05,2022-05-13,3
-85,05,2022-05-14,1
-86,05,2022-05-17,1
-87,05,2022-05-18,1
-88,05,2022-05-19,1
-89,05,2022-05-20,4
-90,05,2022-05-24,1
-91,05,2022-05-26,1
-92,05,2022-05-27,3
-93,05,2022-05-31,1
-94,06,2022-06-01,2
-95,06,2022-06-03,3
-96,06,2022-06-07,4
-97,06,2022-06-08,1
-98,06,2022-06-10,1
-99,06,2022-06-13,3
-100,06,2022-06-15,3
-101,06,2022-06-16,1
-102,06,2022-06-17,7
-103,06,2022-06-20,1
-104,06,2022-06-21,4
-105,06,2022-06-22,1
-106,06,2022-06-23,1
-107,06,2022-06-24,2
-108,06,2022-06-27,1
-109,06,2022-06-28,1
-110,06,2022-06-29,4
-111,07,2022-07-01,2
-112,07,2022-07-03,1
-113,07,2022-07-04,1
-114,07,2022-07-05,3
-115,07,2022-07-06,1
-116,07,2022-07-07,3
-117,07,2022-07-08,1
-118,07,2022-07-10,1
-119,07,2022-07-11,3
-120,07,2022-07-12,1
-121,07,2022-07-14,1
-122,07,2022-07-15,3
-123,07,2022-07-16,1
-124,07,2022-07-19,1
-125,07,2022-07-20,2
-126,07,2022-07-21,1
-127,07,2022-07-24,1
-128,07,2022-07-26,1
-129,07,2022-07-27,1
-130,07,2022-07-29,1
-131,08,2022-08-02,1
-132,08,2022-08-03,4
-133,08,2022-08-04,3
-134,08,2022-08-11,1
-135,08,2022-08-12,3
-136,08,2022-08-15,4
-137,08,2022-08-17,3
-138,08,2022-08-18,2
-139,08,2022-08-19,2
-140,08,2022-08-20,1
-141,08,2022-08-22,1
-142,08,2022-08-23,1
-143,08,2022-08-24,4
-144,08,2022-08-26,4
-145,08,2022-08-30,2
-146,09,2022-09-01,4
-147,09,2022-09-02,1
-148,09,2022-09-03,1
-149,09,2022-09-04,1
-150,09,2022-09-09,7
-151,09,2022-09-12,1
-152,09,2022-09-13,1
-153,09,2022-09-14,7
-154,09,2022-09-16,7
-155,09,2022-09-18,1
-156,09,2022-09-20,2
-157,09,2022-09-21,2
-158,09,2022-09-22,1
-159,09,2022-09-23,5
-160,09,2022-09-26,1
-161,09,2022-09-28,2
-162,09,2022-09-29,7
-163,09,2022-09-30,8
-164,10,2022-10-03,7
-165,10,2022-10-04,1
-166,10,2022-10-06,4
-167,10,2022-10-07,4
-168,10,2022-10-08,1
-169,10,2022-10-11,1
-170,10,2022-10-12,1
-171,10,2022-10-13,2
-172,10,2022-10-14,11
-173,10,2022-10-17,3
-174,10,2022-10-18,4
-175,10,2022-10-20,3
-176,10,2022-10-21,3
-177,10,2022-10-22,1
-178,10,2022-10-24,1
-179,10,2022-10-25,2
-180,10,2022-10-27,1
-181,10,2022-10-28,1
-182,10,2022-10-30,2
-183,11,2022-11-01,2
-184,11,2022-11-02,3
-185,11,2022-11-03,2
-186,11,2022-11-09,2
-187,11,2022-11-10,2
-188,11,2022-11-11,1
-189,11,2022-11-13,1
-190,11,2022-11-14,2
-191,11,2022-11-17,2
-192,11,2022-11-18,2
-193,11,2022-11-28,1
-194,11,2022-11-30,2
-195,12,2022-12-01,1
-196,12,2022-12-02,2
-197,12,2022-12-03,1
-198,12,2022-12-05,3
-199,12,2022-12-07,1
-200,12,2022-12-08,3
-201,12,2022-12-09,2
-202,12,2022-12-13,3
-203,12,2022-12-14,4
-204,12,2022-12-15,2
-205,12,2022-12-18,2
-206,12,2022-12-20,2
-207,12,2022-12-21,1
-208,12,2022-12-23,1
-209,12,2022-12-27,1
-210,12,2022-12-29,5
-211,12,2022-12-30,3
-212,12,2022-12-31,2
+City,Conviction,Month
+Agoura Hills,Accusation,1
+Agoura Hills,First Amended Accusation,1
+"Albuquerque, NM",Surrendered,1
+Aliso Viejo,Decision,1
+Altadena ,Decision,1
+Anaheim ,Accusation,1
+Anaheim ,Decision,1
+Anaheim ,Public Reprimand,1
+Antioch,Interim Suspension Order,1
+Antioch,Surrendered,1
+Apple Valley,Decision,1
+Apple Valley,First Amended Accusation,1
+Aptos,Decision,1
+Arcadia,Accusation,1
+Arcadia,Public Letter of Reprimand,1
+"Arcadia, MI",Accusation,1
+"Arcadia, MI",Revoked,1
+Arcata,Public Reprimand,1
+"Asheville, NC",First Amended Accusation,1
+"Asheville, NC",Surrendered,1
+Atherton,First Amended Accusation,1
+Atherton,Revoked,1
+Auburn,Accusation,1
+Auburn,First Amended Accusation,1
+"Aurora, CO",Public Reprimand,1
+"Austin, TX",First Amended Accusation,1
+Bakersfield,Accusation,2
+Bakersfield,Decision,1
+Bakersfield,First Amended Accusation,1
+Bakersfield,Public Reprimand,2
+Bakersfield,Surrendered,1
+Banning,Accusation,1
+Banning,Decision,1
+Barstow,First Amended Accusation,1
+"Baton Rouge, LA",First Amended Accusation,1
+"Bayfield, CO",First Amended Accusation,1
+"Beachwood, OH",Public Letter of Reprimand,1
+"Belfair, WA",Surrendered,1
+Berkeley,Accusation,1
+Berkeley,First Amended Accusation,2
+Berkeley,Public Letter of Reprimand,1
+Berkeley,Second Amended Accusation,1
+Berkeley,Surrendered,1
+Beverly Hills,Accusation,2
+Beverly Hills,Decision,3
+Beverly Hills,First Amended Accusation,5
+Beverly Hills,First Amended Accusation ,1
+Beverly Hills,Public Letter of Reprimand,1
+Beverly Hills,Second Amended Accusation,1
+Beverly Hills,Surrendered,1
+Bismarck,Accusation,1
+Blythe,Accusation,1
+Blythe,First Amended Accusation,1
+Blythe,Public Letter of Reprimand,1
+Blythe,Surrendered,1
+Bonita,First Amended Accusation,1
+"Boynton Beach, FL",First Amended Accusation,1
+"Boynton, FL",Surrendered,1
+Brea,First Amended Accusation,1
+"Brookings, OR",First Amended Accusation,1
+"Brookings, OR",Revoked,1
+Buellton,Cease Practice Order,1
+Buellton,Decision,1
+Burbank,Decision,1
+Burbank,First Amended Accusation,1
+Burlingame,Accusation,5
+Burlingame,Accusation Dismissed,1
+Burlingame,Public Reprimand,1
+Burney,Decision,1
+Calabasas,Public Letter of Reprimand,1
+Calabasas ,Decision,1
+Calabasas ,First Amended Accusation ,1
+Calabasas ,Revoked,1
+Camarillo,Accusation Withdrawn,1
+Camarillo,First Amended Accusation,1
+Capistrano Beach,Accusation and Petition to Revoke Probation,1
+Capistrano Beach,Decision,1
+"Carlisle, MA",Accusation,1
+Carmel,Decision,1
+Carmichael,Accusation,1
+Carmichael,Cease Practice Order,1
+Carmichael,Full Interim Suspension Order,1
+Carmichael,Petition to Revoke Probation,1
+Carson,First Amended Accusation,1
+Carson,Surrendered,1
+Castro Valley,Accusation,1
+Cerritos,Revoked,1
+Chatsworth,Public Reprimand,1
+"Chattanooga, TN",Revoked,1
+Chester,Decision,1
+Chester,First Amended Accusation,1
+"Chicago, IL",Petition to Revoke Probation,1
+"Chicago, IL",Surrendered,1
+Chico,Accusation,1
+Chico,Decision,2
+Chico,Surrendered,1
+Chino Hills,Accusation,1
+Chino Hills,Decision,1
+Chula Vista,Accusation,1
+Chula Vista,Cease Practice Order,1
+Chula Vista,Decision,3
+Chula Vista,Petition to Revoke Probation,1
+Chula Vista,Public Reprimand,1
+Chula Vista,Surrendered,2
+"Cincinnati, OH",Decision,1
+"Cincinnati, OH",First Amended Accusation,1
+"Cincinnati, OH",Surrendered,1
+Citrus Heights,Public Reprimand,2
+Claremont,Public Letter of Reprimand,1
+Clovis,Accusation,1
+Clovis,Accusation Dismissed,1
+Clovis,Cease Practice Order,1
+Clovis,Decision,2
+"Cohutta, GA",Accusation,1
+"Columbia, MD",Revoked,1
+Concord,Decision,1
+Concord,First Amended Accusation,1
+Corning,Decision,1
+Corning,First Amended Accusation,1
+Corning,Surrendered,1
+Corona,Decision,1
+Corona,First Amended Accusation ,1
+Corona,Second Amended Accusation and Petition to Revoke Probation,1
+Corona,Surrendered,1
+Corona Del Mar ,Accusation,1
+Coronado ,Accusation,1
+Coronado ,Revoked,1
+Costa Mesa,Decision,1
+Costa Mesa,First Amended Accusation,1
+Covina,Accusation,1
+Covina,Public Reprimand,1
+Covina,Surrendered,1
+Crescent City,Accusation,1
+Crescent City,Petition to Revoke Probation,1
+Crescent City,Revoked,1
+Crescent City,Suspension Order,1
+"Creve Coeur, MO",Petition to Revoke Probation,1
+"Creve Coeur, MO",Surrendered,1
+"Cuchillo, NM",First Amended Accusation,1
+"Cuchillo, NM",Surrendered,1
+Cupertino,Surrendered,1
+"Dallas, TX",Surrendered,1
+Daly City,Cease Practice Order,1
+Daly City,Decision,1
+Daly City,Public Letter of Reprimand,1
+Dana Point,Decision,1
+Dana Point,First Amended Accusation,1
+Danville,Accusation,1
+Danville,First Amended Accusation,2
+Danville,Public Letter of Reprimand,1
+Danville,Public Reprimand,2
+Davis ,Accusation,1
+Davis ,Decision,1
+Del Mar,First Amended Accusation,2
+Del Mar,Revoked,1
+Del Mar,Surrendered,1
+Delano,Decision,1
+Delano,First Amended Accusation,1
+"Denver, CO",Surrendered,1
+Diamond Bar,Accusation,1
+Dublin,Accusation,1
+"Dun Lagoghaire, Ireland",Surrendered,1
+El Cajon,Accusation,1
+El Cajon,Cease Practice Order,2
+El Cajon,Decision,1
+El Cajon,First Amended Accusation ,1
+El Centro,Decision,1
+El Centro ,First Amended Accusation,1
+El Centro ,First Amended Accusation ,1
+El Centro ,Suspension Order,1
+El Cerrito,Decision,1
+El Cerrito,First Amended Accusation,1
+El Dorado Hills ,Accusation,1
+El Dorado Hills ,Decision,1
+"El Paso, TX",Accusation,1
+El Segundo,Public Letter of Reprimand,1
+El Sobrante,Decision,1
+Elk Grove,Accusation,1
+Elk Grove,First Amended Accusation,1
+Elk Grove,Public Reprimand,2
+Elk Grove,Surrendered,1
+Encinitas,Public Letter of Reprimand,1
+Encinitas,Surrendered,1
+Encino,Accusation,1
+Encino,Decision,2
+Encino,Public Letter of Reprimand,1
+Encino,Surrendered,1
+Encino ,Decision,1
+Escondido,Decision,1
+Eureka,Surrendered,1
+Fair Oaks,First Amended Accusation,1
+Fair Oaks,Public Reprimand,1
+Fair Oaks,Surrendered,1
+Folsom ,Accusation,1
+Fontana,Accusation,1
+Fort Bragg,Public Reprimand,1
+"Fort Myers, FL",Accusation,1
+"Fort Myers, FL",Suspension Order,1
+Fortuna,Petition to Revoke Probation ,1
+Fortuna,Revoked,1
+Fountain Valley,Accusation,2
+Fountain Valley,Decision,1
+Fountain Valley,First Amended Accusation,1
+Freedom,Accusation,1
+Freedom,Third Amended Accusation,1
+Fremont,Decision,1
+Fresno,Accusation,2
+Fresno,Accusation and Petition to Revoke Probation,1
+Fresno,Cease Practice Order,1
+Fresno,Decision,3
+Fresno,First Amended Accusation,2
+Fresno,First Amended Accusation and Petition to Revoke Probation,1
+Fresno,Public Reprimand,1
+Fresno,Revoked,1
+Fresno,Second Amended Accusation,1
+Fresno,Surrendered,3
+"Frisco, TX",Accusation Withdrawn,1
+Gabriel,Public Letter of Reprimand,1
+Glendale,Decision,1
+Glendale,Public Reprimand,1
+Glendale,Second Amended Accusation,1
+Glendora,Accusation,1
+Goleta,Decision,1
+Grass Valley,Surrendered,1
+Greenbrae,Accusation,1
+Hayward,Public Letter of Reprimand,1
+Hemet,Decision,1
+Hemet,First Amended Accusation,1
+Highland,Interim Suspension Order,1
+Hollywood,Accusation,1
+Hollywood,Decision,2
+"Houston, TX",Accusation Withdrawn,1
+"Houston, TX",Decision,1
+"Houston, TX",First Amended Accusation,1
+"Houston, TX",Revoked,1
+Huntington Beach,Decision,1
+Huntington Beach,First Amended Accusation and Petition to Revoke Probation,1
+Huntington Beach,Revoked,1
+Huntington Park,First Amended Accusation,1
+Indian Wells,Accusation,1
+Indio,Surrendered,1
+Inglewood,Decision,1
+Inglewood,Revoked,1
+Irvine ,Accusation,1
+Irvine ,First Amended Accusation,1
+Irvine ,Petition to Revoke Probation ,1
+Irvine ,Public Reprimand,1
+Irvine ,Revoked,1
+Jackson,Accusation and Petition to Revoke Probation,1
+"Jacksonville, FL",Decision,1
+Kensington,First Amended Accusation ,1
+"Kirkland, WA",Surrendered,1
+La Canada,Accusation,1
+La Canada Flintridge,Decision,1
+La Habra,Accusation,1
+La Jolla,Accusation,1
+La Jolla,Decision,2
+La Jolla,First Amended Accusation,3
+La Jolla,First Amended Petition to Revoke Probation,1
+La Jolla,Surrendered,1
+La Mesa,Decision,1
+La Mirada,Accusation,1
+La Mirada,Decision,1
+La Palma,Accusation,1
+La Palma,First Amended Accusation,1
+Ladera Ranch,First Amended Accusation ,1
+Ladera Ranch,Suspension Order,1
+Lafayette,Interim Suspension Order,1
+Laguna Beach,Accuastion,1
+Laguna Beach,Decision,1
+Laguna Beach,First Amended Accusation ,1
+Laguna Hills,First Amended Accusation ,1
+Laguna Hills,Public Reprimand,1
+Laguna Nigel ,Accusation,1
+Laguna Niguel,First Amended Accusation,1
+Laguna Woods,Decision,1
+Lake Forest,Public Reprimand,1
+Lake Forest,Surrendered,1
+Lake Forest ,First Amended Accusation,2
+"Lake Oswego, OR",First Amended Accusation,1
+"Lake Oswego, OR",Surrendered,1
+Lakeport,Accusation,1
+Lakeport,Surrendered,1
+Lancaster,Accusation,1
+Lancaster,Surrendered,2
+Larkspur,Accusation,1
+Larkspur,First Amended Accusation,2
+"Las Vegas, NV",Public Reprimand,1
+Lemon Grove,Decision,1
+Lemon Grove,First Amended Accusation,1
+"Lexington, MA",Accusation Dismissed,1
+Lindsay,Public Letter of Reprimand,1
+"Littleton, CO",Decision,1
+"Littleton, CO",First Amended Accusation,1
+Live Oak,Decision,1
+Lodi,Automatic Suspension Order,1
+Loma Linda,Decision,1
+Loma Linda,First Amended Accusation,1
+Loma Linda,Surrendered,1
+Long Beach,Decision,2
+Long Beach,First Amended Accusation,1
+Long Beach ,Revoked,1
+Los Alamitos,First Amended Accusation,1
+Los Altos,Public Reprimand,1
+Los Angeles,Accusation,10
+Los Angeles,Accusation ,1
+Los Angeles,Accusation Dismissed,1
+Los Angeles,Accusation and Petition to Revoke Probation,1
+Los Angeles,Automatic Suspension Order,1
+Los Angeles,Decision,5
+Los Angeles,First Amended Accusation,7
+Los Angeles,Public Letter of Reprimand,1
+Los Angeles,Public Reprimand,2
+Los Angeles,Revoked,1
+Los Angeles,Second Amended Accusation,2
+Los Angeles,Surrendered,7
+Los Angeles,Suspension Order,1
+Los Gatos,Accusation,3
+Los Gatos,Decision,2
+Los Gatos,First Amended Accusation,2
+Los Gatos ,Accusation,1
+Los Gatos ,Decision,1
+Los Gatos ,Surrendered,1
+Malibu,Decision,2
+Malibu,First Amended Accusation,1
+Manhattan Beach,Revoked,1
+Manhattan Beach,Surrendered,2
+Manteca,Decision,1
+"Maricopa, AZ",Automatic Suspension Order,1
+"Marietta, GA",Decision,1
+Marina Del Rey,Accusation,1
+McFarland,First Amended Accusation,1
+McFarland ,Public Reprimand,1
+Merced,First Amended Accusation,1
+Mill Valley,Decision,1
+Milpitas,Accusation,2
+Milpitas,Surrendered,1
+"Minneapolis, MN",Surrendered,1
+Mission Viejo,Accusation,1
+Mission Viejo,First Amended Accusation ,1
+"Mobile, AL",Surrendered,1
+Modesto,Accusation ,1
+Modesto,Decision,2
+Modesto,First Amednded Accusation,1
+Modesto,First Amended Accusation,1
+Modesto,Second Amended Accusation,1
+Montclair,Accusation,2
+Montebello,Public Reprimand,1
+Monterey,Accusation,1
+Monterey,Accusation ,1
+Monterey,First Amended Accusation,1
+Moreno Valley,Accusation,1
+Moreno Valley,Surrendered,1
+Mountain House,Accusation,1
+Mountain View,Accusation,1
+Mountain View,First Amended Accusation,1
+Mountain View,First Amended Accusation Dismissed,1
+Mountain View,Public Reprimand,1
+Mountain View,Surrendered,1
+Murrieta,Accusation,1
+Murrieta,Decision,1
+Murrieta,First Amended Accusation,1
+"Nampa, ID",Decision,1
+"Naples, FL",Automatic Inactive Status,1
+Needles,Accusation Dismissed,1
+Nevada City,Accusation,2
+"New York, NY",Petition to Revoke Probation,1
+Newbury Park,Public Letter of Reprimand,1
+Newcastle,Decision,1
+Newcastle,First Amended Accusation,1
+Newport Beach,Accusation,2
+Newport Beach,Accusation Dismissed,2
+Newport Beach,Decision,4
+Newport Beach,First Amended Accusation,4
+Newport Beach,Revoked,1
+Newport Beach,Suspension Order,1
+Newport Beach,Third Amended Accusation,1
+"North Providence, RI",Revoked,2
+"North Waltham, MA",Petition to Revoke Probation ,1
+Northridge,Accusation,1
+Northridge,Public Letter of Reprimand,1
+Not Disclosed,Decision,1
+Novato,First Amended Accusation,1
+Novato,Second Amended Accusation,1
+Oakland,Accusation,3
+Oakland,Decision,1
+"Oakwood, OH",Revoked,1
+Oceanside,Decision,1
+Oceanside,First Amended Accusation ,1
+Ojai,Decision,1
+Ojai,First Amended Accusation,1
+"Oklahoma City, OK",First Amended Accusation,1
+Olympic Valley,Accusation,1
+Olympic Valley,Revoked,1
+Orange,Accusation,3
+Orange,First Amended Accusation,2
+Orange,Revoked,1
+Pacific Palisades,Accusation and Petition to Revoke Probation,1
+Palm Desert,Accusation and Petition to Revoke Probation,1
+"Palm Harbor, FL",Public Letter of Reprimand,1
+Palm Springs,Accusation,1
+Palo Alto,First Amended Accusation,1
+Palo Alto,Revoked,1
+Palo Alto ,Decision,1
+"Paradise Valley, AZ",Decision,1
+Pasadena,Accusation,3
+Pasadena,Accusation Withdrawn,1
+Pasadena,Decision,2
+Pasadena,First Amended Accusation,1
+Pasadena,Public Reprimand,1
+Pasadena,Revoked,1
+Pasadena,Third Amended Accusation and Request for Civil Penalty,1
+Pebble Beach,Decision,1
+Pebble Beach,Second Amended Accusation,1
+Petaluma,First Amended Accusation ,1
+Petaluma,Second Amended Accusation,1
+"Pewaukee, WI",Surrendered,1
+Pico Rivera,Public Letter of Reprimand,1
+Pine Grove,Petition to Revoke Probation,1
+Pine Grove,Revoked,1
+Placentia,Decision,1
+Pleasant Hill,Decision,1
+Pleasanton,Accusation,1
+Point Reyes Station,First Amended Accusation,1
+Point Reyes Station,Public Reprimand,1
+Point Reyes Station,Second Amended Accusation,1
+Pomona,Decision,2
+Pomona ,First Amended Accusation,1
+Porter Ranch,Accusation,1
+Porterville,Accusation,2
+Porterville,Public Reprimand,1
+"Portland, OR",Accusation,1
+"Portland, OR",First Amended Accusation,1
+"Portland, OR",First Amended Accusation Withdrawn,1
+Poway,Accusation,1
+Rancho Cucamonga,Second Amended Accusation,1
+Rancho Mirage,Decision,2
+Redding,Accusation,1
+Redding,Decision,1
+Redding,First Amended Accusation,2
+Redding,Public Reprimand,1
+Redding,Revoked,1
+Redlands,Decision,1
+Redlands,First Amended Accusation,1
+Redlands,First Amended Accusation ,1
+Redlands,Surrendered,1
+Redondo Beach,Decision,1
+Redondo Beach,Surrendered,1
+Redwood City,Accusation,1
+Redwood City,Accusation ,1
+Redwood City,Decision,1
+Redwood City,First Amended Accusation,1
+"Reno, NV",Public Reprimand,1
+"Reno, NV",Surrendered,1
+"Renton, WA",Surrendered,1
+Represa,Public Reprimand,1
+Riverside,Accusation,1
+Riverside,First Amended Accusation,1
+Riverside,Public Letter of Reprimand,1
+Riverside,Revoked,1
+Riverside,Surrendered,1
+"Rochester Hills, MI",Revoked,1
+Rocklin,Decision,1
+Rolling Hills,First Amended Accusation,1
+Roseville,Accusation,2
+Roseville,Accusation and Petition to Revoke Probation,1
+Roseville,Surrendered,1
+Sacramento,Accusation,4
+Sacramento,Decision,2
+Sacramento,First Amended Accusation,1
+Sacramento,Public Letter of Reprimand,3
+Sacramento,Public Reprimand,1
+"Saint Clair Shores, MI",First Amended Accusation ,1
+"Salem, OR",Public Letter of Reprimand,1
+Salinas,Accusation,1
+Salinas,Decision,1
+Salinas,Surrendered,1
+"San Antonio, TX",Decision,1
+San Bernardino,First Amended Accusation,3
+San Bernardino,First Amended Accusation and Petition to Revoke Probation,1
+San Bernardino,Public Reprimand,2
+San Bernardino,Surrendered,1
+San Diego,Accusation,12
+San Diego,Accusation Dismissed,1
+San Diego,Automatic Suspension Order,1
+San Diego,Cease Practice Order,1
+San Diego,Decision,13
+San Diego,First Amended Accusation,3
+San Diego,Public Reprimand,4
+San Diego,Revoked,1
+San Diego,Second Amended Accusation,1
+San Diego,Surrendered,1
+San Diego,Third Amended Accusation,1
+San Francisco,Accusation,11
+San Francisco,Accusation Withdrawn,1
+San Francisco,Cease Practice Order,1
+San Francisco,Decision,3
+San Francisco,First Amended Accusation,4
+San Francisco,Petition to Revoke Probation ,1
+San Francisco,Public Letter of Reprimand,1
+San Francisco,Public Reprimand,2
+San Francisco,Surrendered,3
+San Jose,Accusation,2
+San Jose,Decision,1
+San Jose,First Amended Accusation,1
+San Jose,Interim Suspension Order,2
+San Juan Capistrano,Suspension Order,1
+San Leandro,Accusation,1
+San Leandro,Decision,1
+San Leandro,Public Reprimand,1
+San Leandro,Surrendered,1
+San Luis Obispo,Accusation,1
+San Luis Obispo,First Amended Accusation,1
+San Luis Obispo,Second Amended Accusation,1
+San Marcos,First Amended Accusation,1
+San Marcos,First Amended Accusation ,1
+San Marcos,Public Reprimand,1
+San Marcos,Second Amended Accusation,2
+San Marino,First Amended Accusation,1
+San Marino,Surrendered,1
+San Mateo,Accusation,1
+San Pedro,Revoked,1
+San Pedro,Surrendered,2
+San Rafael,Accusation Dismissed,1
+Sanger,Accusation Withdrawn,1
+Santa Ana,Accusation,1
+Santa Ana,Cease Practice Order,1
+Santa Ana,Decision,3
+Santa Ana,Surrendered,1
+Santa Barbara,Accusation,3
+Santa Barbara,Decision,2
+Santa Barbara,First Amended Accusation,1
+Santa Barbara,Second Amended Accusation,1
+Santa Barbara,Surrendered,1
+Santa Clara,Decision,1
+Santa Clarita,Public Letter of Reprimand,1
+Santa Cruz,Accusation,1
+Santa Cruz,First Amended Accusation,1
+Santa Cruz,Petition to Revoke Probation,1
+Santa Cruz,Public Letter of Reprimand,1
+Santa Cruz,Public Reprimand,1
+Santa Cruz,Revoked,1
+Santa Maria,Accusation,1
+Santa Maria,Public Reprimand,1
+Santa Monica,Accusation,1
+Santa Monica,Decision,2
+Santa Monica,First Amended Accusation,2
+Santa Paula,Interim Suspension Order,1
+Santa Rosa,Accusation,1
+Santa Rosa,Automatic Suspension Order,1
+Santa Rosa,Cease Practice Order,1
+Santa Rosa,Decision,2
+Santa Rosa,Public Letter of Reprimand,1
+Santa Rosa,Public Reprimand,1
+Santa Rosa,Revoked,1
+Santa Rosa,Second Amended Accusation,1
+Santa Rosa,Surrendered,1
+Santa Rosa,Third Amended Accusation,1
+Santa Rosa ,Public Reprimand,1
+Santee,First Amended Accusation,1
+Santee,Surrendered,1
+Sausalito,First Amended Accusation,1
+Sausalito,Second Amended Accusation,1
+"Sea Girt, NJ",Accusation,1
+"Sea Girt, NJ",Surrendered,1
+"Sea Girt, NJ",Suspension Order,1
+Seal Beach,Accusation,1
+Seal Beach,Automatic Suspension Order,1
+Shell Beach,First Amended Accusation,1
+Sherman Oaks,Accusation,1
+Sherman Oaks,First Amended Accusation,1
+"Shreveport, LA",Accusation,1
+"Shreveport, LA",Revoked,1
+"Shreveport, LA",Suspension Order,1
+Solana Beach,Accusation,2
+Sonoma,Decision,1
+Sonoma,Surrendered,1
+Sonora,Decision,1
+Sonora,First Amended Accusation,1
+Soquel,Decision,1
+Soquel,First Amended Accusation,1
+South Lake Tahoe,Accusation,1
+South Pasadena,Decision,1
+South Pasadena,Surrendered,1
+Spring Valley,Decision,1
+"St. Petersburg, FL",Accusation,1
+Stockton,Accusation Petition to Revoke Probation,1
+Stockton,Cease Practice Order,1
+Stockton,Decision,1
+"Stroudsburg, PA",Revoked,1
+Susanville,Interim Suspension Order,1
+Susanville,Petition to Revoke Probation,1
+Sutter Creek,Accusation Withdrawn,1
+Sutter Creek,Public Letter of Reprimand,1
+"Tampa, FL",Decision,1
+Tarzana,Accusation,1
+Tarzana,Automatic Suspension Order,1
+Tarzana,Surrendered,2
+Tehachapi ,First Amended Accusation,1
+Temecula,Accusation,1
+Temecula,Decision,1
+Temecula,First Amended Accusation ,1
+Temecula,Surrendered,3
+Templeton,Accusation,1
+Thousand Oaks,First Amended Accusation,2
+Thousand Oaks,Public Reprimand,2
+"Tomball, TX",First Amended Accusation ,1
+Topanga ,Decision,1
+Torrance,Accusation,3
+Torrance,First Amended Accusation,1
+Torrance,Surrendered,1
+Tracy,Decision,2
+Tracy,First Amended Accusation,1
+Tujunga,Decision,1
+Turlock,Accusation,1
+Turlock,First Amended Accusation,2
+Turlock,Surrendered,1
+Vacaville,Accusation,2
+Vacaville,Decision,2
+Valencia,First Amended Accusation,1
+Valencia,Public Reprimand,1
+Valencia ,Accusation,1
+Vallejo,Accusation,1
+Valley Village,Accusation,1
+Van Nuys,Surrendered,1
+Victorville,Accusation,1
+Victorville,Decision,1
+Victorville,Fourth Amended Accusation,1
+Victorville,Revoked,1
+Visalia,Decision,1
+Visalia,First Amended Accusation,1
+Vista,Decision,1
+Vista,First Amended Accusation,1
+"West Bloomfield, MI",Accusation,1
+West Covina,Accusation Withdrawn,1
+West Covina,Second Amended Accusation  ,1
+West Covina,Third Amended Accusation,1
+West Hills,Cease Practice Order,1
+West Hills,First Amended Accusation,1
+West Hills,Revoked,1
+West Hollywood,Public Letter of Reprimand,1
+Westlake Village,Accusation,1
+Westlake Village,Second Amended Accusation,1
+Westminster ,Cease Practice Order,1
+Westminster ,Decision,1
+Whittier,Accusation,1
+"Williston, VT",Public Letter of Reprimand,1
+Willits,Accusation,1
+Wilton,Fourth Amended Accusation,1
+Woodland Hills,Accusation,1
+Woodland Hills,Decision,1
+Woodland Hills,First Amended Accusation,1
+Woodland Hills,Public Letter of Reprimand,1
+Woodland Hills,Public Reprimand,1
+Woodside,Accusation,1
+Yuba City ,Accusation,2
+Yucaipa,Public Letter of Reprimand,1
+Yucca Valley,Accusation,1
