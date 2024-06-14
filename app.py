@@ -6,10 +6,11 @@ import plotly.graph_objects as go
 
 DCA = pd.read_json('https://raw.githubusercontent.com/lleiva25/California-Medical-Board-2022/main/Output/DCA_Entity_Application_Status_Top10.json')
 Court_Rulings = pd.read_csv('https://raw.githubusercontent.com/lleiva25/California-Medical-Board-2022/main/Output/Court_Crimes_Ruling.csv')
-Convictions_cty = pd.read_csv('https://raw.githubusercontent.com/lleiva25/California-Medical-Board-2022/main/Output/Discipline_Alerts_Database.csv')
+Convictions_cty = pd.read_json('/Users/leslieleiva/Documents/GitHub/California-Medical-Board-2022/Output/Disciplinary_Alerts_County.json')
 License = pd.read_json('https://raw.githubusercontent.com/lleiva25/California-Medical-Board-2022/main/Output/License_Type_County_DB.json')
 Month_daily_metric = pd.read_json('https://raw.githubusercontent.com/lleiva25/California-Medical-Board-2022/main/Output/Monthly_Total_Daily_Case_Alert_Metrics.json')
 Med_School = pd.read_csv('https://raw.githubusercontent.com/lleiva25/California-Medical-Board-2022/main/Output/Num_Medical_School_State_Top10.csv')
+DisciplinaryAct = pd.read_json('https://raw.githubusercontent.com/lleiva25/California-Medical-Board-2022/main/Output/DisciplinaryAction_Top10.json')
 
 Med_School_df = pd.DataFrame({
     'StateCode': Med_School['StateCode'],
@@ -35,6 +36,16 @@ Month_daily_metric_df = pd.DataFrame({
     "Total No. Cases": Month_daily_metric["Total No. Cases"]
 })
 
+DisciplinaryAct_df = pd.DataFrame({
+    "Disciplinary Action" : DisciplinaryAct["Disciplinary Action"],
+    "No. Cases" : DisciplinaryAct["No. Cases"]
+})
+
+Court_Rulings_df = pd.DataFrame(Court_Rulings)
+
+Convictions_cty_df = pd.DataFrame(Convictions_cty)
+
+#################################################################
 # Initialize the app
 app = Dash(__name__)
 server = app.server
@@ -157,7 +168,52 @@ app.layout = html.Div([
                 )
             ),
     )
-    ],style={'width': '50%', 'display': 'inline-block'})
+    ],style={'width': '50%', 'display': 'inline-block'}),
+
+    # Pie Chart for Types of Medical Licenses
+    html.Div([
+        html.H3('Disciplinary Actions'),
+        dcc.Graph(
+            id="pie-chart2",
+            figure=px.pie(
+                DisciplinaryAct_df, 
+                values="No. Cases",  # Replace with your actual data column for values
+                names="Disciplinary Action",  # Replace with your actual data column for labels
+                hole=.3,
+                color_discrete_sequence=px.colors.sequential.RdBu
+                #title="Types of Medical Licenses"
+            )
+        )
+    ],style={'width': '50%', 'display': 'inline-block'}),
+
+    # Bar Chart for Types of Convictions
+    html.Div([
+        html.H3('Convictions'),
+        dcc.Graph(
+            id="bar-chart2",
+            figure=px.bar(
+                Court_Rulings_df,
+                y="Crime",
+                x="Ruling",
+                color='Crime',
+                #title="Types of Convictions",
+                labels={"Ruling": "Number of Rulings", "Crime": "Type of Crime"},
+                barmode="group",
+               # bargap=0.15,
+            ).update_layout(
+                legend_title_text='Crime',
+                xaxis_title='Type of Crime',
+                yaxis_title='No. of Rulings',
+                yaxis=dict(
+                    showticklabels=False,  # Hide the y-axis tick labels
+                    showgrid=False,  # Hide the y-axis grid lines
+                    zeroline=False  # Hide the y-axis zero line
+                )
+                #width=800,  # Adjust width as needed
+                #height=500  # Adjust height as needed
+            )
+        )
+    ], style={'width': '50%', 'display': 'inline-block'}),
 
 ])
 
