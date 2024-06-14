@@ -3,6 +3,9 @@ from dash import Dash, html, dash_table, dcc, callback, Output, Input
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
+import plotly.figure_factory as ff
+import requests
+import numpy as np
 
 DCA = pd.read_json('https://raw.githubusercontent.com/lleiva25/California-Medical-Board-2022/main/Output/DCA_Entity_Application_Status_Top10.json')
 Court_Rulings = pd.read_csv('https://raw.githubusercontent.com/lleiva25/California-Medical-Board-2022/main/Output/Court_Crimes_Ruling.csv')
@@ -44,6 +47,54 @@ DisciplinaryAct_df = pd.DataFrame({
 Court_Rulings_df = pd.DataFrame(Court_Rulings)
 
 Convictions_cty_df = pd.DataFrame(Convictions_cty)
+#################################################################
+
+# Declaring variables for plot
+values = Convictions_cty_df['No. Alerts'].tolist()
+fips = Convictions_cty_df['County_FIP'].tolist()
+county = Convictions_cty_df['COUNTY'].tolist()
+
+# Add hover text with county names and values
+# hover_text = [f'{c}: {v} alerts' for c, v in zip(county, values)]
+# Convictions_cty_df['hover_text'] = hover_text
+
+# Load the GeoJSON file and filter for California counties
+geojson_url = "https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json"
+response = requests.get(geojson_url)
+counties = response.json()
+
+# Filter GeoJSON features to include only California counties
+california_fips_prefix = '06'  # FIPS codes for California start with '06'
+california_counties = {
+    "type": "FeatureCollection",
+    "features": [feature for feature in counties['features'] if feature['properties']['STATE'] == california_fips_prefix]
+}
+
+endpts = list(np.mgrid[min(values):max(values):4j])
+colorscale = px.colors.sequential.Sunset
+
+# Create choropleth map
+#Declaring variables for plot
+values = Convictions_cty_df['No. Alerts'].tolist()
+fips = Convictions_cty_df['County_FIP'].tolist()
+county = Convictions_cty_df['COUNTY'].tolist()
+
+# Add hover text with county names and values
+# hover_text = [f'{c}: {v} alerts' for c, v in zip(county, values)]
+# Convictions_cty_df['hover_text'] = hover_text
+
+# Load the GeoJSON file and filter for California counties
+geojson_url = "https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json"
+response = requests.get(geojson_url)
+counties = response.json()
+
+# Filter GeoJSON features to include only California counties
+california_fips_prefix = '06'  # FIPS codes for California start with '06'
+california_counties = {
+    "type": "FeatureCollection",
+    "features": [feature for feature in counties['features'] if feature['properties']['STATE'] == california_fips_prefix]
+}
+
 
 #################################################################
 # Initialize the app
@@ -169,6 +220,55 @@ app.layout = html.Div([
             ),
     )
     ],style={'width': '50%', 'display': 'inline-block'}),
+
+    #Show Map of California and Number of Discipline Alerts
+    # Choropleth Map for No. Disciplinary Alerts per County
+    html.Div([
+        html.H1('No. Disciplinary Alerts per County'),
+        dcc.Graph(
+            id='choropleth-map',
+            figure=ff.create_choropleth(
+                fips=fips,
+                values=values,
+                scope=['CA'],  # 'CA' for California
+                show_hover=True,
+                show_state_data=True,
+                colorscale=colorscale,
+                binning_endpoints=endpts,
+                round_legend_values=True,
+                plot_bgcolor='rgb(255,255,255)',
+                paper_bgcolor='rgb(255,255,255)',
+                #legend_title='No. Disciplinary Alerts by County',
+                county_outline={'color': 'rgb(0,0,0)', 'width': 0.5},
+                exponent_format=True
+            ).update_layout(
+                    legend=dict(x=0, y=-0.1),
+                    margin=dict(l=0, r=0, t=50, b=0),
+                    width=800),
+            style={'width': '200px', 'height': '500px', 'text-align': 'left'}  # Adjust the height as needed
+        )
+    ], style={'width': '50%', 'display': 'inline-block'}),
+    
+    # Table for Convictions_cty_df
+    html.Div([
+        #html.H3('Convictions Data Table'),
+        dash_table.DataTable(
+            id='convictions-table',
+            columns=[{'name': col, 'id': col} for col in Convictions_cty_df.columns],
+            data=Convictions_cty_df.sort_values(by='No. Alerts', ascending=False).to_dict('records'),
+            style_table={'height': '500px',
+                         'overflowX': 'scroll'},  # Enable horizontal scroll if needed
+            style_cell={
+                'textAlign': 'left',
+                'minWidth': '100px', 'width': '150px', 'maxWidth': '300px',
+                'whiteSpace': 'normal',
+            },
+            style_header={
+                'backgroundColor': 'rgb(230, 230, 230)',
+                'fontWeight': 'bold'
+            }
+        )
+    ], style={'width': '50%', 'display': 'inline-block'}),
 
     # Pie Chart for Types of Medical Licenses
     html.Div([
