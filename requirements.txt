@@ -1,8 +1,10 @@
 dash==2.17.1
 pandas
+geopandas
+pyshp
+shapely
 plotly
 gunicorn
 statsmodels
 requests
 plotly-geo
-geopandas
