@@ -6,7 +6,7 @@ import plotly.graph_objects as go
 import plotly.figure_factory as ff
 import requests
 import numpy as np
-import statsmodels.api as sm
+#import statsmodels.api as sm
 
 DCA = pd.read_json('https://raw.githubusercontent.com/lleiva25/California-Medical-Board-2022/main/Output/DCA_Entity_Application_Status_Top10.json')
 Court_Rulings = pd.read_csv('https://raw.githubusercontent.com/lleiva25/California-Medical-Board-2022/main/Output/Court_Crimes_Ruling.csv')
