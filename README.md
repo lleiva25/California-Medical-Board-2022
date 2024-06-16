@@ -6,6 +6,11 @@ Mission
 The mission of the Medical Board of California is to protect healthcare consumers and prevent harm through the proper licensing and regulation of physicians and surgeons and certain allied healthcare professionals and through the vigorous, objective enforcement of the Medical Practice Act, and to promote access to quality medical care through the Board's licensing, policy, and regulatory functions.
 
 -------------------------------------------------------------------------------------------------
+Summary
+-------------------------------------------------------------------------------------------------
+Conducted a thorough analysis of disciplinary cases and alerts available on the California Medical Board website. The Medical Board of California aims to protect healthcare consumers and prevent harm by ensuring the proper licensing and regulation of healthcare professionals. Additionally, the board provides a platform to raise awareness about disciplinary actions, ensuring transparency and accountability within the healthcare industry. By analyzing these cases, I contributed to the board's mission of maintaining high standards of healthcare and safeguarding public health.
+
+-------------------------------------------------------------------------------------------------
 Dashboard
 -------------------------------------------------------------------------------------------------
 Dashboard Link: https://california-medical-board-2022.onrender.com
