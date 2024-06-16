@@ -4,3 +4,4 @@ plotly
 gunicorn
 statsmodels
 requests
+plotly-geo
