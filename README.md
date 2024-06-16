@@ -73,3 +73,9 @@ List of Convictions
 | Surrender of License | The court suspends the privilege of a person to operate with license, the court shall require the person's license to be surrendered to it.|
 | Revoked | The court takes a physcician's license, either for a period of time or permanently.|
 | Accusation Filed | An accusation is the document containing charges and allegations, that is filed when an agency is seeking to discipline a licensee.|
+
+-------------------------------------------------------------------------------------------------
+Sources
+-------------------------------------------------------------------------------------------------
+California Medical Board
+https://www.mbc.ca.gov/
