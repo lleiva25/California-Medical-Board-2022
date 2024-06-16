@@ -6,3 +6,5 @@ statsmodels
 requests
 plotly-geo
 geopandas
+shapely
+shapefile
